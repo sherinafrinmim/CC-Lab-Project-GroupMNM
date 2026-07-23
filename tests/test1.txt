@@ -1,0 +1,24 @@
+int x;
+float y;
+bool flag;
+
+// Assignment
+x = 10;
+y = 3.14;
+flag = true;
+
+// Loop
+while (x > 0)
+{
+    x = x - 1;
+}
+
+// Conditional
+if (flag)
+{
+    print x;
+}
+else
+{
+    print y;
+}

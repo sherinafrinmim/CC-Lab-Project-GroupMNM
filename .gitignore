@@ -1,0 +1,17 @@
+# Build files
+compiler
+lexer
+*.o
+*.out
+
+# Flex/Bison generated
+lex.yy.c
+parser.tab.c
+parser.tab.h
+
+# Editor
+.vscode/
+*.swp
+
+# Generated output
+generated/
